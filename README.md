@@ -2,7 +2,7 @@
 Simple exampe of cimsuming a RESTful API
 
 <br><br>
-The most simepl one example
+The simplest example
 
 ```go
 package main
