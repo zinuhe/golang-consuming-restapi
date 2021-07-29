@@ -4,7 +4,7 @@ Simple exampe of cimsuming a RESTful API
 <br><br>
 The most simepl one example
 
-```
+```go
 package main
 
 import (
