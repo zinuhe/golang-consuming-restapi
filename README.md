@@ -4,7 +4,7 @@ Simple exampe of cimsuming a RESTful API
 <br><br>
 The most simepl one example
 
-`
+```
 package main
 
 import (
@@ -30,7 +30,7 @@ func main() {
     fmt.Println(string(responseData))
 
 }
-`
+```
 
 <br><br>
 
