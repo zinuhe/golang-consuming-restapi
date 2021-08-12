@@ -1,7 +1,7 @@
 # golang-consuming-restapi
 Simple example of consuming a RESTful API
 
-<br><br>
+<br>
 The simplest example
 
 ```go
